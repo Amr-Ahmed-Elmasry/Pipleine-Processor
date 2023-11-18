@@ -1,0 +1,7 @@
+module flopenrc #(parameter H = 8)(input logic clk, reset, en, clear, input logic [H-1:0] d, output logic [H-1:0] q);
+always_ff @(posedge clk, posedge reset)
+if (reset) q <= 0;
+else if (en)
+if (clear) q <= 0;
+else q <= d;
+endmodule 

@@ -1,0 +1,141 @@
+{D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/testbench.sv} {1 {vlog -work work -sv -stats=none {D:\College\6_2022_Fall\CIE 439 - Computer Architecture\Project\project\testbench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/imem.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/imem.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/adder.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/adder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/hazard.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/hazard.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard
+
+Top level modules:
+	hazard
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopr.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopr.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/conditional.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/conditional.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conditional
+
+Top level modules:
+	conditional
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/mux3.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/mux3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/floprc.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/floprc.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module floprc
+
+Top level modules:
+	floprc
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/datapath.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/datapath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/arm.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/arm.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module arm
+
+Top level modules:
+	arm
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/extend.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/extend.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module extend
+
+Top level modules:
+	extend
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopenrc.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopenrc.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopenrc
+
+Top level modules:
+	flopenrc
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/alu.sv} {1 {vlog -work work -sv -stats=none {D:\College\6_2022_Fall\CIE 439 - Computer Architecture\Project\project\alu.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/top.sv} {1 {vlog -work work -sv -stats=none {D:\College\6_2022_Fall\CIE 439 - Computer Architecture\Project\project\top.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/dmem.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/dmem.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/mux2.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/mux2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/controller.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/eqcmp.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/eqcmp.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module eqcmp
+
+Top level modules:
+	eqcmp
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/regfile.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/regfile.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopenr.sv} {1 {vlog -work work -sv -stats=none {D:/College/6_2022_Fall/CIE 439 - Computer Architecture/Project/project/flopenr.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopenr
+
+Top level modules:
+	flopenr
+
+} {} {}}
